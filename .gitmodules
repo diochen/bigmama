@@ -1,0 +1,3 @@
+[submodule "littleboy"]
+	path = littleboy
+	url = git@github.com:diochen/littleboy.git
